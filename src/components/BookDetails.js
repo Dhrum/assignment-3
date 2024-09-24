@@ -16,7 +16,7 @@ const BookDetails = () => {
   };
 
   return (
-    <div className="book-details-container">
+    <div className="book-details-container flex-col">
       <div className="book-image">
         <img src={book.image} alt={book.bookName} />
       </div>

@@ -1,10 +1,10 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
-import img1 from '../assets/images/motivation1.jpeg';
-import img2 from '../assets/images/motivation2.jpeg';
-import img3 from '../assets/images/motivation3.jpeg';
-import img4 from '../assets/images/motivation4.jpeg';
-import img5 from '../assets/images/motivation5.jpeg';
+import img1 from '../assets/images/motivation1.jpg';
+import img2 from '../assets/images/2.webp';
+import img3 from '../assets/images/3.webp';
+import img4 from '../assets/images/4.webp';
+import img5 from '../assets/images/5.webp';
 
 const BookCarousel = () => {
   return (
